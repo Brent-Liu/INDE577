@@ -28,8 +28,8 @@ There are a total of 10 modules in this repository. Each of them can be found in
   - [Perceptron](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Perceptron)
   - [Linear Regression](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Linear%20Regression)
   - [Gradient Descent](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Gradient_Descent)
-  - [Logistic Regression]https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Logistic%20Regression)
-  - [Multilayer Perceptron](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Multilayer_Perceptron)
+  - [Logistic Regression](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Logistic%20Regression)
+  - [Multilayer Perceptron]
   - [k-Nearest Neighbors](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/KNN)
   - [Decision Tree](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Decesion%20Tree)
   - [Ensemble Learning](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Bootstrapping)
@@ -37,6 +37,16 @@ There are a total of 10 modules in this repository. Each of them can be found in
 - Unsupervised Learning
   - [K-Means Clustering](https://github.com/Brent-Liu/INDE577/tree/main/Unsupervised%20Learning/K-Means_Clustering)
   - [Principle Component Analysis](https://github.com/Brent-Liu/INDE577/tree/main/Unsupervised%20Learning/Principle_Component_Analysis)
+
+## Dataset
+
+In the ten algorithms, I mainly use the palmer penguins dataset, an interesting alternative to Iris data. It is a dataset comprising various measurements of three different penguin species, namely Adelie, Gentoo, and Chinstrap. Same as Iris data which had measurements of three different species of the Iris flower. Anyway, both are great for what they are made of.
+
+The rigorous study was conducted in the islands of the Palmer Archipelago, Antarctica. These data were collected from 2007 to 2009 by Dr. Kristen Gorman with the Palmer Station Long Term Ecological Research Program, part of the US Long Term Ecological Research Network.
+
+More comprehensive introduction of palmer penguins data set is in the [link](https://allisonhorst.github.io/palmerpenguins/). Thanks to 344 adorable penguins from three islands and three species for taking us on a journey of ten algorithms.
+
+![image](penguins.png)
 
 ## Programming Tools
 
