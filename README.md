@@ -29,7 +29,7 @@ There are a total of 10 modules in this repository. Each of them can be found in
   - [Linear Regression](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Linear%20Regression)
   - [Gradient Descent](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Gradient_Descent)
   - [Logistic Regression](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Logistic%20Regression)
-  - [Multilayer Perceptron]
+  - [Multilayer Perceptron](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Multilayer_Perceptron)
   - [k-Nearest Neighbors](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/KNN)
   - [Decision Tree](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Decesion%20Tree)
   - [Ensemble Learning](https://github.com/Brent-Liu/INDE577/tree/main/Supervised%20Learning/Bootstrapping)
