@@ -20,4 +20,4 @@ As to the dataset, we will use the palmer penguins data, which contains differen
 
 The palmer_penguins dataset is a classic and very easy multi-class classification dataset. It has 7 features in total, where 3 features can be used as label, which is species, island and sex. The rest four features are bill_length, bill_depth, flipper_length and body_mass, the body measurements of individual penguins.
 
-In this project, we will apply the Multilayer_Perceptron algorithms in the palmer penguins data, aiming to judge the species of penguins based on the.
+In this project, we will apply the Multilayer_Perceptron algorithms in the palmer penguins data, aiming to judge the sex of penguins based on the rest features of the dataset. Then, we will rewind this process with the help of tensorflow. We will compare the performance of the Multilayer perceptron model we build and the model ran by tensorflow for the same task.
