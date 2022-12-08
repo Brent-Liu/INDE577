@@ -44,7 +44,7 @@ In the ten algorithms, I mainly use the palmer penguins dataset, an interesting 
 
 The rigorous study was conducted in the islands of the Palmer Archipelago, Antarctica. These data were collected from 2007 to 2009 by Dr. Kristen Gorman with the Palmer Station Long Term Ecological Research Program, part of the US Long Term Ecological Research Network.
 
-More comprehensive introduction of palmer penguins data set is in the [link](https://allisonhorst.github.io/palmerpenguins/). Thanks to 344 adorable penguins from three islands and three species for taking us on a journey of ten algorithms.
+More comprehensive introduction of palmer penguins data set is in the [link](https://allisonhorst.github.io/palmerpenguins/). Thanks to 344 adorable penguins from three islands and three species for taking us on a wonderful journey of ten algorithms.
 
 ![image](penguins.png)
 
